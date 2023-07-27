@@ -9,7 +9,7 @@ export default function useRouteElement() {
       index: true,
       element: (
         <MainLayout>
-          <HomePage />,
+          <HomePage />
         </MainLayout>
       ),
     },
